@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\alumno\desktop\finalprogramacion2\main.cpp
+	<iostream>
+
+1514140574 source:c:\users\usuario\desktop\finalprogramacion2\main.cpp
+	<iostream>
+
+1574446957 source:c:\users\usuario\desktop\finalprogramacion2\charmander.h
+	"Pokemon.h"
+
+1574447058 c:\users\usuario\desktop\finalprogramacion2\pokemon.h
+	<iostream>
+	<cstdio>
+
+1574549273 source:c:\users\raul__23\documents\ejercicios programacion 2\finalprogramacion2\charmander.h
+	"Pokemon.h"
+
+1574549184 c:\users\raul__23\documents\ejercicios programacion 2\finalprogramacion2\pokemon.h
+	<string>
+
+1574457964 source:c:\users\raul__23\documents\ejercicios programacion 2\finalprogramacion2\coliseo1.cpp
+
